@@ -1,0 +1,57 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/root/ros_ws/install/vdb_mapping_ros2/include/**",
+        "/root/ros_ws/install/vdb_mapping_interfaces/include/**",
+        "/root/ros_ws/install/disparity_graph_cost_map/include/**",
+        "/root/ros_ws/install/cost_map_interface/include/**",
+        "/root/ros_ws/install/trajectory_library/include/**",
+        "/root/ros_ws/install/sensor_interfaces/include/**",
+        "/root/ros_ws/install/mavros_interface/include/**",
+        "/root/ros_ws/install/robot_interface/include/**",
+        "/root/ros_ws/install/px4_msgs/include/**",
+        "/root/ros_ws/install/mav_system_msgs/include/**",
+        "/root/ros_ws/install/mav_state_machine_msgs/include/**",
+        "/root/ros_ws/install/mav_planning_msgs/include/**",
+        "/root/ros_ws/install/mav_msgs/include/**",
+        "/root/ros_ws/install/disparity_graph/include/**",
+        "/root/ros_ws/install/behavior_tree/include/**",
+        "/root/ros_ws/install/behavior_tree_msgs/include/**",
+        "/root/ros_ws/install/airstack_common/include/**",
+        "/root/ros_ws/install/airstack_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/root/ros_ws/src/autonomy/0_interface/drone_safety_monitor/include/**",
+        "/root/ros_ws/src/autonomy/0_interface/mavros_interface/include/**",
+        "/root/ros_ws/src/autonomy/0_interface/robot_interface/include/**",
+        "/root/ros_ws/src/autonomy/3_local/a_world_models/cost_map_interface/include/**",
+        "/root/ros_ws/src/autonomy/3_local/a_world_models/disparity_expansion/include/**",
+        "/root/ros_ws/src/autonomy/3_local/a_world_models/disparity_graph/include/**",
+        "/root/ros_ws/src/autonomy/3_local/a_world_models/disparity_graph_cost_map/include/**",
+        "/root/ros_ws/src/autonomy/3_local/b_planners/droan_local_planner/include/**",
+        "/root/ros_ws/src/autonomy/3_local/b_planners/takeoff_landing_planner/include/**",
+        "/root/ros_ws/src/autonomy/3_local/b_planners/trajectory_library/include/**",
+        "/root/ros_ws/src/autonomy/3_local/c_controls/mav_comm/mav_msgs/include/**",
+        "/root/ros_ws/src/autonomy/3_local/c_controls/mav_comm/mav_planning_msgs/include/**",
+        "/root/ros_ws/src/autonomy/4_global/a_world_models/vdb_mapping/include/**",
+        "/root/ros_ws/src/autonomy/4_global/a_world_models/vdb_mapping_ros2/vdb_mapping_ros2/include/**",
+        "/root/ros_ws/src/autonomy/4_global/b_planners/ensemble_planner/include/**",
+        "/root/ros_ws/src/autonomy/4_global/b_planners/random_walk/include/**",
+        "/root/ros_ws/src/autonomy/5_behavior/behavior_executive/include/**",
+        "/root/ros_ws/src/autonomy/5_behavior/behavior_tree/include/**",
+        "/root/ros_ws/src/common/airstack_common/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
